@@ -1,3 +1,7 @@
+/*Write a program to find the factorial of a given integer number using stack.
+Name:Daksh Zala
+Enrollment no.:92500527106 */
+
 #include <stdio.h>
 #define MAX 20
 
