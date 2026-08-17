@@ -1,6 +1,6 @@
 /* Write a program to find Minimum and Maximum numbers from the given array with recursion.
-Name:Diya Ambaliya
-Enrollment no.:92500527126 */
+Name:Daksh zala
+Enrollment no.:92500527106 */
 
 #include<stdio.h>
 
