@@ -1,3 +1,6 @@
+/*Write a program to find the power of a given number using stack.
+Name:Daksh Zala
+Enrollment no.:92500527106 */
 #include<stdio.h>
 
 #define MAX 100
