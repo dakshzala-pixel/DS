@@ -1,3 +1,6 @@
+/*Create an array of size 10 find the largest value from the array.
+Name:Daksh Zala
+Enrollment no.:92500527106*/
 #include<stdio.h>
 void main()
 {
