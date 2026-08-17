@@ -1,6 +1,6 @@
 /* Write a program to find the Smallest Common Divisor of a given number.
-Name:Diya Ambaliya
-Enrollment no.:92500527126 */
+Name:Daksh zala
+Enrollment no.:92500527106 */
 
 #include<stdio.h>
 
